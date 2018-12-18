@@ -1,0 +1,1 @@
+module.exports = {  clientId: "insert your client id here",  domain: "insert domain url"};
